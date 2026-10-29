@@ -1,0 +1,69 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-mar-del-plata-a-coruna",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T15:06:00+01:00",
+ "updated_at": "2026-10-29T15:15:00+01:00",
+ "business": {
+  "name": "Hotel Mar del Plata",
+  "legal_name": "Aurea Novo Pena, S.L.",
+  "registry_ids": [
+   "CIF B70104070",
+   "Registro Mercantil de A Coruña"
+  ],
+  "url": "https://hotelmardelplata.es/",
+  "domain": "hotelmardelplata.es",
+  "municipality": "A Coruña",
+  "province": "A Coruña",
+  "address": "Paseo de Ronda, 58 · 15011 A Coruña",
+  "phones": [
+   "+34 981 257 962"
+  ],
+  "emails": [
+   "info@hotelmardelplata.es"
+  ],
+  "sector": "hotel frente a la playa de Riazor en A Coruña"
+ },
+ "rating": {
+  "value": 4.6,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Mar+del+Plata/@43.3702162,-8.4164734,17z/data=!4m9!3m8!1s0xd2e7c60dac9baad:0xd7a94d873a4b4560!5m2!4m1!1i2!8m2!3d43.3702162!4d-8.4164734!16s%2Fg%2F1tdmrbjd",
+  "date": "2026-10-29T10:58:44+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://app.mews.com/distributor/d17af9a0-6a54-4188-8726-ac8e00b2b9ad?language=es-ES",
+   "ca": "https://app.mews.com/distributor/d17af9a0-6a54-4188-8726-ac8e00b2b9ad?language=es-ES",
+   "en": "https://app.mews.com/distributor/d17af9a0-6a54-4188-8726-ac8e00b2b9ad?language=en-US",
+   "fr": "https://app.mews.com/distributor/d17af9a0-6a54-4188-8726-ac8e00b2b9ad?language=fr-FR"
+  },
+  "note": "Las reservas van al motor de reservas real del hotel (Mews Distributor, configuracion d17af9a0-6a54-4188-8726-ac8e00b2b9ad, la misma que abre su boton Reservar via mews-init.js); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://hotelmardelplata.es/",
+  "date": "2026-10-29T15:02:42+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
