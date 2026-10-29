@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-mar-del-plata-a-coruna",
+ "maps": {
+  "fecha": "2026-10-29T10:58:44+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Mar del Plata",
+  "nota": 4.6,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Mar+del+Plata/@43.3702162,-8.4164734,17z/data=!4m9!3m8!1s0xd2e7c60dac9baad:0xd7a94d873a4b4560!5m2!4m1!1i2!8m2!3d43.3702162!4d-8.4164734!16s%2Fg%2F1tdmrbjd",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T10:58:44+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "Aurea Novo Pena, S.L.",
+  "cif": "B70104070",
+  "fuente": "Web hotelmardelplata.es, aviso legal: «Titular de la Web: AUREA NOVO PENA S.L. • Nombre comercial: Hotel Mar del Plata • CIF: B70104070 • Domicilio social: C/ Paseo de Ronda, 58, 15011 A Coruña», inscrita en el Registro Mercantil (leído el 29/10/2026)",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Un solo hotel (Hotel Mar del Plata, Paseo de Ronda 58, A Coruña); la web no presenta otros establecimientos"
+ }
+}
