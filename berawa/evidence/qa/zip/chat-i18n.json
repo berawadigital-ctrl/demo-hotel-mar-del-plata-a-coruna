@@ -1,0 +1,471 @@
+{
+ "url": "http://127.0.0.1:34167/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene habitaciones individuales (cama de 1,35 m), twin económica y twin estándar (dos camas de 0,90 m), de matrimonio, triples y familiares."
+    },
+    {
+     "q": "¿Tiene habitaciones para familias?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la familiar tiene unos 27 m² para hasta 4 personas, con una cama de 1,35 m y dos de 0,90 m; la triple, unos 19 m² con tres camas de 0,90"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Está en el Paseo de Ronda, 58, 15011 A Coruña: en el centro, enfrente de la playa y justo al lado del Estadio de Riazor. Delante del hotel h"
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, con su Mundo Pets las mascotas tienen su propio espacio en la habitación para comer y dormir. El peso máximo, con transportín, es de 15 "
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hay aparcamiento privado enfrente del hotel, de pago; consulta la tarifa al hotel."
+    },
+    {
+     "q": "¿Tienen desayuno?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, hay desayuno buffet y cafetería."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Salvo indicación en contrario, la entrada es a partir de las 14:00 y la salida hasta las 12:00. La recepción atiende 24 horas."
+    },
+    {
+     "q": "¿Hay traslado al aeropuerto?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, el hotel ofrece traslados al aeropuerto; pide los detalles en recepción."
+    },
+    {
+     "q": "¿Alquilan bicicletas?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, puedes reservar bicicleta para recorrer A Coruña: el hotel está en el propio Paseo Marítimo, con 9 km por delante."
+    },
+    {
+     "q": "¿Tienen spa?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "El hotel no tiene spa propio: ofrece entradas al circuito termal de la Casa del Agua, a 100 m, gracias a un convenio."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 981 257 962 o escribir a info@hotelmardelplata.es. Este asistente no"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Según su aviso legal, el titular de la web es AUREA NOVO PENA S.L. (nombre comercial Hotel Mar del Plata), CIF B70104070."
+    },
+    {
+     "q": "¿Tienen cuna?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Sí, en la twin estándar se puede incluir sin coste adicional una cuna de viaje, bajo petición."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 981 257 962 o escribir a info@hotelmardelplata.es. Este asistente no"
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "¿Tienen restaurante para cenar?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 981 257 962 · info@hotelmardelplata.es."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Admiten mascotas?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "room0_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té habitacions individuals (llit d'1,35 m), twin econòmica i twin estàndard (dos llits de 0,90 m), de matrimoni, triples i familiars. Totes "
+    },
+    {
+     "q": "Té habitacions per a famílies?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la familiar fa uns 27 m² per a fins a 4 persones, amb un llit d'1,35 m i dos de 0,90 m; la triple, uns 19 m² amb tres llits de 0,90 m."
+    },
+    {
+     "q": "On és?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "És al Paseo de Ronda, 58, 15011 la Corunya: al centre, davant de la platja i just al costat de l'Estadi de Riazor. Davant de l'hotel hi ha p"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, amb el seu Mundo Pets les mascotes tenen el seu propi espai a l'habitació per menjar i dormir. El pes màxim, amb transportí, és de 15 kg"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hi ha aparcament privat davant de l'hotel, de pagament; consulta la tarifa a l'hotel."
+    },
+    {
+     "q": "Teniu esmorzar?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, hi ha esmorzar bufet i cafeteria."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Llevat d'indicació contrària, l'entrada és a partir de les 14:00 i la sortida fins a les 12:00. La recepció atén 24 hores."
+    },
+    {
+     "q": "Hi ha trasllat a l'aeroport?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, l'hotel ofereix trasllats a l'aeroport; demana'n els detalls a recepció."
+    },
+    {
+     "q": "Llogueu bicicletes?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, pots reservar bicicleta per recórrer la Corunya: l'hotel és al mateix Passeig Marítim, amb 9 km per davant."
+    },
+    {
+     "q": "Teniu spa?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "L'hotel no té spa propi: ofereix entrades al circuit termal de la Casa del Agua, a 100 m, gràcies a un conveni."
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 981 257 962 o escriure a info@hotelmardelplata.es. Aquest assistent no"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Segons el seu avís legal, el titular del web és AUREA NOVO PENA S.L. (nom comercial Hotel Mar del Plata), CIF B70104070."
+    },
+    {
+     "q": "Teniu bressol?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Sí, a la twin estàndard s'hi pot incloure sense cost addicional un bressol de viatge, a petició."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 981 257 962 o escriure a info@hotelmardelplata.es. Aquest assistent no"
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "Teniu restaurant per sopar?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 981 257 962 · info@hotelmardelplata.es."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Admeteu mascotes?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has single rooms (1.35 m bed), economy and standard twins (two 0.90 m beds), double, triple and family rooms. All are non-smoking, with f"
+    },
+    {
+     "q": "Are there family rooms?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: the family room is about 27 m² for up to 4 people, with a 1.35 m bed and two 0.90 m beds; the triple is about 19 m² with three 0.90 m b"
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It is at Paseo de Ronda, 58, 15011 A Coruña: in the centre, opposite the beach and right next to the Riazor Stadium. There is a taxi rank in"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, with its Mundo Pets service pets have their own space in the room to eat and sleep. The maximum weight, carrier included, is 15 kg (exc"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, there is a private car park opposite the hotel, for a fee; ask the hotel for the rate."
+    },
+    {
+     "q": "Do you serve breakfast?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, there is a buffet breakfast and a café."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Unless stated otherwise, check-in is from 14:00 and check-out until 12:00. Reception is open 24 hours."
+    },
+    {
+     "q": "Is there an airport transfer?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, the hotel offers airport transfers; ask reception for details."
+    },
+    {
+     "q": "Do you rent bikes?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, you can book a bike to explore A Coruña: the hotel is on the seafront promenade itself, with 9 km ahead of you."
+    },
+    {
+     "q": "Do you have a spa?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "The hotel has no spa of its own: it offers tickets to the thermal circuit at Casa del Agua, 100 m away, through an agreement."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 981 257 962 or email info@hotelmardelplata.es. This assistant does not confirm av"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "According to its legal notice, the website owner is AUREA NOVO PENA S.L. (trade name Hotel Mar del Plata), CIF B70104070."
+    },
+    {
+     "q": "Do you have a cot?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Yes, a travel cot can be added free of charge in the standard twin, on request."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 981 257 962 or email info@hotelmardelplata.es. This assistant does not confirm av"
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "Is there a restaurant for dinner?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 981 257 962 · info@hotelmardelplata.es."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Are pets allowed?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il propose des chambres individuelles (lit de 1,35 m), twin économique et twin standard (deux lits de 0,90 m), doubles, triples et familiale"
+    },
+    {
+     "q": "Y a-t-il des chambres familiales ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : la familiale fait environ 27 m² pour 4 personnes maximum, avec un lit de 1,35 m et deux de 0,90 m ; la triple, environ 19 m² avec troi"
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il se trouve Paseo de Ronda, 58, 15011 La Corogne : au centre, face à la plage et juste à côté du stade de Riazor. Une station de taxis est "
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, avec son service Mundo Pets les animaux ont leur propre espace dans la chambre pour manger et dormir. Le poids maximum, caisse comprise"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, il y a un parking privé en face de l'hôtel, payant ; demandez le tarif à l'hôtel."
+    },
+    {
+     "q": "Servez-vous le petit-déjeuner ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, il y a un petit-déjeuner buffet et une cafétéria."
+    },
+    {
+     "q": "À quelle heure est l'arrivée ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sauf indication contraire, l'arrivée se fait à partir de 14h00 et le départ jusqu'à 12h00. La réception est ouverte 24h/24."
+    },
+    {
+     "q": "Y a-t-il un transfert aéroport ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, l'hôtel propose des transferts vers l'aéroport ; demandez les détails à la réception."
+    },
+    {
+     "q": "Louez-vous des vélos ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, vous pouvez réserver un vélo pour découvrir La Corogne : l'hôtel est sur la promenade maritime, avec 9 km devant vous."
+    },
+    {
+     "q": "Avez-vous un spa ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "L'hôtel n'a pas de spa propre : il propose des entrées au circuit thermal de la Casa del Agua, à 100 m, grâce à un partenariat."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 981 257 962 ou écrire à info@hotelmardelplata.es. Cet a"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Selon ses mentions légales, le titulaire du site est AUREA NOVO PENA S.L. (nom commercial Hotel Mar del Plata), CIF B70104070."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Oui, un lit bébé de voyage peut être ajouté sans frais dans la twin standard, sur demande."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 981 257 962 ou écrire à info@hotelmardelplata.es. Cet a"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 981 257 962 · info@hotelmardelplata.es."
+    },
+    {
+     "q": "Y a-t-il un restaurant pour dîner ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 981 257 962 · info@hotelmardelplata.es."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Les animaux sont-ils admis ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

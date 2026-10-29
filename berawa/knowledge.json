@@ -1,0 +1,592 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-mar-del-plata-a-coruna",
+ "source_site": "https://hotelmardelplata.es/",
+ "source_read_at": "2026-10-29T15:06:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelmardelplata.es, sin precios. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio"
+    ],
+    "en": [
+     "what rooms",
+     "room types"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre"
+    ]
+   },
+   "a": {
+    "es": "Tiene habitaciones individuales (cama de 1,35 m), twin económica y twin estándar (dos camas de 0,90 m), de matrimonio, triples y familiares. Todas son de no fumadores, con wifi gratuito, TV LCD HD y baño privado con ducha.",
+    "ca": "Té habitacions individuals (llit d'1,35 m), twin econòmica i twin estàndard (dos llits de 0,90 m), de matrimoni, triples i familiars. Totes són de no fumadors, amb wifi gratuït, TV LCD HD i bany privat amb dutxa.",
+    "en": "It has single rooms (1.35 m bed), economy and standard twins (two 0.90 m beds), double, triple and family rooms. All are non-smoking, with free wifi, HD LCD TV and a private bathroom with shower.",
+    "fr": "Il propose des chambres individuelles (lit de 1,35 m), twin économique et twin standard (deux lits de 0,90 m), doubles, triples et familiales. Toutes non-fumeurs, avec wifi gratuit, TV LCD HD et salle de bain privée avec douche."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+     "quote": "INDIVIDUAL Superficie habitación – 13 m² aprox. Capacidad máxima – 1 ocupante Cama de 1,35m."
+    },
+    {
+     "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+     "quote": "TWIN ECONÓMICA Superficie habitación – 15m² aprox. Capacidad máxima – 2 ocupantes 2 camas de 0,90m"
+    },
+    {
+     "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+     "quote": "Todas las habitaciones son de No Fumadores y cuentan con detector de humo."
+    },
+    {
+     "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+     "quote": "Baño privado con plato de ducha"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "familia",
+     "triple",
+     "ninos",
+     "cuatro personas"
+    ],
+    "ca": [
+     "famili",
+     "triple",
+     "nens",
+     "quatre persones"
+    ],
+    "en": [
+     "family",
+     "triple",
+     "children",
+     "four people"
+    ],
+    "fr": [
+     "famil",
+     "triple",
+     "enfants",
+     "quatre personnes"
+    ]
+   },
+   "a": {
+    "es": "Sí: la familiar tiene unos 27 m² para hasta 4 personas, con una cama de 1,35 m y dos de 0,90 m; la triple, unos 19 m² con tres camas de 0,90 m.",
+    "ca": "Sí: la familiar fa uns 27 m² per a fins a 4 persones, amb un llit d'1,35 m i dos de 0,90 m; la triple, uns 19 m² amb tres llits de 0,90 m.",
+    "en": "Yes: the family room is about 27 m² for up to 4 people, with a 1.35 m bed and two 0.90 m beds; the triple is about 19 m² with three 0.90 m beds.",
+    "fr": "Oui : la familiale fait environ 27 m² pour 4 personnes maximum, avec un lit de 1,35 m et deux de 0,90 m ; la triple, environ 19 m² avec trois lits de 0,90 m."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+     "quote": "FAMILIAR Superficie habitación – 27m² aprox. Capacidad máxima – 4 ocupantes 1 cama de 1,35m y 2 camas de 0,90m"
+    },
+    {
+     "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+     "quote": "TRIPLE Superficie habitación – 19m² aprox. Capacidad máxima – 3 ocupantes 3 camas de 0,90m"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "playa",
+     "riazor"
+    ],
+    "ca": [
+     " on es",
+     "adreca",
+     "ubicacio",
+     "platja",
+     "riazor"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "beach",
+     "riazor"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "plage",
+     "riazor"
+    ]
+   },
+   "a": {
+    "es": "Está en el Paseo de Ronda, 58, 15011 A Coruña: en el centro, enfrente de la playa y justo al lado del Estadio de Riazor. Delante del hotel hay parada de taxis y a la vuelta de la esquina, la del bus.",
+    "ca": "És al Paseo de Ronda, 58, 15011 la Corunya: al centre, davant de la platja i just al costat de l'Estadi de Riazor. Davant de l'hotel hi ha parada de taxis i a la cantonada, la del bus.",
+    "en": "It is at Paseo de Ronda, 58, 15011 A Coruña: in the centre, opposite the beach and right next to the Riazor Stadium. There is a taxi rank in front of the hotel and a bus stop round the corner.",
+    "fr": "Il se trouve Paseo de Ronda, 58, 15011 La Corogne : au centre, face à la plage et juste à côté du stade de Riazor. Une station de taxis est devant l'hôtel et l'arrêt de bus au coin de la rue."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/",
+     "quote": "Hotel Mar del Plata | Paseo de Ronda, 58| 15011 A Coruña"
+    },
+    {
+     "url": "https://hotelmardelplata.es/",
+     "quote": "Estamos en el centro de A Coruña, enfrente de la playa y justo al lado del Estadio de Riazor."
+    },
+    {
+     "url": "https://hotelmardelplata.es/",
+     "quote": "delante del hotel está la parada de taxis y a la vuelta de la esquina la de bus"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     "cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien",
+     "chat"
+    ]
+   },
+   "a": {
+    "es": "Sí, con su Mundo Pets las mascotas tienen su propio espacio en la habitación para comer y dormir. El peso máximo, con transportín, es de 15 kg (salvo perros de asistencia) y hay que avisar al reservar. No se puede dejar al animal solo en la habitación.",
+    "ca": "Sí, amb el seu Mundo Pets les mascotes tenen el seu propi espai a l'habitació per menjar i dormir. El pes màxim, amb transportí, és de 15 kg (excepte gossos d'assistència) i cal avisar en reservar. No es pot deixar l'animal sol a l'habitació.",
+    "en": "Yes, with its Mundo Pets service pets have their own space in the room to eat and sleep. The maximum weight, carrier included, is 15 kg (except assistance dogs) and you must say so when booking. Pets cannot be left alone in the room.",
+    "fr": "Oui, avec son service Mundo Pets les animaux ont leur propre espace dans la chambre pour manger et dormir. Le poids maximum, caisse comprise, est de 15 kg (sauf chiens d'assistance) et il faut le signaler à la réservation. L'animal ne peut pas rester seul dans la chambre."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Mundo Pets Tu mascota también se merece disfrutar del hotel y sus comodidades. Con su espacio propio en la habitación para comer y dormir."
+    },
+    {
+     "url": "https://hotelmardelplata.es/normativa-mascotas/",
+     "quote": "de 15 Kg. Si se trata de un perro"
+    },
+    {
+     "url": "https://hotelmardelplata.es/normativa-mascotas/",
+     "quote": "Rogamos que en el momento de realizar la reserva nos informe de que viaja con un animal de compañía."
+    },
+    {
+     "url": "https://hotelmardelplata.es/normativa-mascotas/",
+     "quote": "completamente prohibido dejar al animal solo en la"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "coche"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcament",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     " car"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "voiture"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay aparcamiento privado enfrente del hotel, de pago; consulta la tarifa al hotel.",
+    "ca": "Sí, hi ha aparcament privat davant de l'hotel, de pagament; consulta la tarifa a l'hotel.",
+    "en": "Yes, there is a private car park opposite the hotel, for a fee; ask the hotel for the rate.",
+    "fr": "Oui, il y a un parking privé en face de l'hôtel, payant ; demandez le tarif à l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Parking Aparcamiento privado enfrente del hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayun",
+     "cafeteria"
+    ],
+    "ca": [
+     "esmorzar",
+     "cafeteria"
+    ],
+    "en": [
+     "breakfast",
+     "cafe"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "cafeteria"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay desayuno buffet y cafetería.",
+    "ca": "Sí, hi ha esmorzar bufet i cafeteria.",
+    "en": "Yes, there is a buffet breakfast and a café.",
+    "fr": "Oui, il y a un petit-déjeuner buffet et une cafétéria."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Buffet desayuno En Galicia se come muy bien, te lo demostramos en nuestro desayuno buffet."
+    },
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Cafetería Abierta para que no te falte de nada."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "check",
+     "hora",
+     "entrada",
+     "salida",
+     "recepcion"
+    ],
+    "ca": [
+     "check",
+     "hora",
+     "entrada",
+     "sortida",
+     "recepcio"
+    ],
+    "en": [
+     "check",
+     "time",
+     "arrival",
+     "reception"
+    ],
+    "fr": [
+     "heure",
+     "arrivee",
+     "depart",
+     "reception"
+    ]
+   },
+   "a": {
+    "es": "Salvo indicación en contrario, la entrada es a partir de las 14:00 y la salida hasta las 12:00. La recepción atiende 24 horas.",
+    "ca": "Llevat d'indicació contrària, l'entrada és a partir de les 14:00 i la sortida fins a les 12:00. La recepció atén 24 hores.",
+    "en": "Unless stated otherwise, check-in is from 14:00 and check-out until 12:00. Reception is open 24 hours.",
+    "fr": "Sauf indication contraire, l'arrivée se fait à partir de 14h00 et le départ jusqu'à 12h00. La réception est ouverte 24h/24."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/condiciones-del-servicio-de-reserva-y-alojmiento/",
+     "quote": "Hora habitual de entrada (check in): a partir de las 14:00 h del día de llegada. Hora habitual de salida (check out): hasta las 12:00 h del día de salida."
+    },
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Recepción 24h A tu servicio de día y de noche."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "aeropuerto",
+   "keys": {
+    "es": [
+     "aeropuerto",
+     "traslado",
+     "avion"
+    ],
+    "ca": [
+     "aeroport",
+     "trasllat",
+     "avio"
+    ],
+    "en": [
+     "airport",
+     "transfer",
+     "flight"
+    ],
+    "fr": [
+     "aeroport",
+     "transfert",
+     "avion"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel ofrece traslados al aeropuerto; pide los detalles en recepción.",
+    "ca": "Sí, l'hotel ofereix trasllats a l'aeroport; demana'n els detalls a recepció.",
+    "en": "Yes, the hotel offers airport transfers; ask reception for details.",
+    "fr": "Oui, l'hôtel propose des transferts vers l'aéroport ; demandez les détails à la réception."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Traslados al aeropuerto Para que vengas y sobre todo para que vuelvas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "bicicletas",
+   "keys": {
+    "es": [
+     "bici",
+     "bicicleta",
+     "paseo maritimo"
+    ],
+    "ca": [
+     "bici",
+     "bicicleta",
+     "passeig maritim"
+    ],
+    "en": [
+     "bike",
+     "bicycle",
+     "cycle",
+     "promenade"
+    ],
+    "fr": [
+     "velo",
+     "bicyclette",
+     "promenade"
+    ]
+   },
+   "a": {
+    "es": "Sí, puedes reservar bicicleta para recorrer A Coruña: el hotel está en el propio Paseo Marítimo, con 9 km por delante.",
+    "ca": "Sí, pots reservar bicicleta per recórrer la Corunya: l'hotel és al mateix Passeig Marítim, amb 9 km per davant.",
+    "en": "Yes, you can book a bike to explore A Coruña: the hotel is on the seafront promenade itself, with 9 km ahead of you.",
+    "fr": "Oui, vous pouvez réserver un vélo pour découvrir La Corogne : l'hôtel est sur la promenade maritime, avec 9 km devant vous."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Bicicletea Reserva tu bicicleta y conoce A Coruña"
+    },
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Ubicados en el propio Paseo Marítimo con 9 Km por delante"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "spa",
+   "keys": {
+    "es": [
+     "spa",
+     "circuito termal",
+     "gimnasio"
+    ],
+    "ca": [
+     "spa",
+     "circuit termal",
+     "gimnas"
+    ],
+    "en": [
+     "spa",
+     "thermal",
+     "gym"
+    ],
+    "fr": [
+     "spa",
+     "thermal",
+     "salle de sport"
+    ]
+   },
+   "a": {
+    "es": "El hotel no tiene spa propio: ofrece entradas al circuito termal de la Casa del Agua, a 100 m, gracias a un convenio.",
+    "ca": "L'hotel no té spa propi: ofereix entrades al circuit termal de la Casa del Agua, a 100 m, gràcies a un conveni.",
+    "en": "The hotel has no spa of its own: it offers tickets to the thermal circuit at Casa del Agua, 100 m away, through an agreement.",
+    "fr": "L'hôtel n'a pas de spa propre : il propose des entrées au circuit thermal de la Casa del Agua, à 100 m, grâce à un partenariat."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/servicios-mdp/",
+     "quote": "Entradas para el circuito termal y acceso a los distintos servicios. Convenio con Casa del Agua. (A 100m del hotel)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 981 257 962 o escribir a info@hotelmardelplata.es. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 981 257 962 o escriure a info@hotelmardelplata.es. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 981 257 962 or email info@hotelmardelplata.es. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 981 257 962 ou écrire à info@hotelmardelplata.es. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/",
+     "quote": "Tel: +34 981 257 962"
+    },
+    {
+     "url": "https://hotelmardelplata.es/",
+     "quote": "info@hotelmardelplata.es"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Según su aviso legal, el titular de la web es AUREA NOVO PENA S.L. (nombre comercial Hotel Mar del Plata), CIF B70104070.",
+    "ca": "Segons el seu avís legal, el titular del web és AUREA NOVO PENA S.L. (nom comercial Hotel Mar del Plata), CIF B70104070.",
+    "en": "According to its legal notice, the website owner is AUREA NOVO PENA S.L. (trade name Hotel Mar del Plata), CIF B70104070.",
+    "fr": "Selon ses mentions légales, le titulaire du site est AUREA NOVO PENA S.L. (nom commercial Hotel Mar del Plata), CIF B70104070."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/aviso-legal/",
+     "quote": "Titular de la Web: AUREA NOVO PENA S.L. • Nombre comercial: Hotel Mar del Plata • CIF: B70104070"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "cuna",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe"
+    ],
+    "ca": [
+     "bressol",
+     "nado"
+    ],
+    "en": [
+     "cot",
+     "crib",
+     "baby"
+    ],
+    "fr": [
+     "lit bebe",
+     "berceau",
+     "bebe"
+    ]
+   },
+   "a": {
+    "es": "Sí, en la twin estándar se puede incluir sin coste adicional una cuna de viaje, bajo petición.",
+    "ca": "Sí, a la twin estàndard s'hi pot incloure sense cost addicional un bressol de viatge, a petició.",
+    "en": "Yes, a travel cot can be added free of charge in the standard twin, on request.",
+    "fr": "Oui, un lit bébé de voyage peut être ajouté sans frais dans la twin standard, sur demande."
+   },
+   "sources": [
+    {
+     "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+     "quote": "Es posible incluir, sin coste adicional, una cuna de viaje bajo petición."
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

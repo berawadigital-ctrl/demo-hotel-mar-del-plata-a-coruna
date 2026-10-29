@@ -1,0 +1,55 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelmardelplata.es/",
+ "read_at": "2026-10-29T15:06:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelmardelplata.es/",
+   "sha256": "fed0b03430a7e61b220588ef548417d8a66bd2be455fd2a0ce2dbded0192e907",
+   "chars": 6428
+  },
+  {
+   "url": "https://hotelmardelplata.es/aviso-legal/",
+   "sha256": "f97d8607184aefc9270aec0203d9b32450018877392ed12bcc3fa66c1a1f6d8b",
+   "chars": 11728
+  },
+  {
+   "url": "https://hotelmardelplata.es/condiciones-del-servicio-de-reserva-y-alojmiento/",
+   "sha256": "3c9ea0fc3be150277e830b1dcdbdd709dbd76ca2be7d3c7af59ffbf95c102bad",
+   "chars": 18089
+  },
+  {
+   "url": "https://hotelmardelplata.es/habitaciones-rooms/",
+   "sha256": "95cfb7d10c16de5fdce3920221e1c9c00f3469b291c5244ca66a8757dd4955bc",
+   "chars": 15604
+  },
+  {
+   "url": "https://hotelmardelplata.es/normativa-mascotas/",
+   "sha256": "9d8695a1e15791a4432456b39ff86a0fd88c432bd203f094527efe238fdb7935",
+   "chars": 5046
+  },
+  {
+   "url": "https://hotelmardelplata.es/servicios-mdp/",
+   "sha256": "97684032e12fa8a1fb6109eef1535c3692e4075074484a642e8ac5b7922ae9a9",
+   "chars": 4642
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelmardelplata.es",
+  "https://hotelmardelplata.es/accesibilidad/",
+  "https://hotelmardelplata.es/en/",
+  "https://hotelmardelplata.es/en/accesibilidad/",
+  "https://hotelmardelplata.es/en/condiciones-del-servicio-de-reserva-y-alojmiento/",
+  "https://hotelmardelplata.es/en/english-privacy-policy/",
+  "https://hotelmardelplata.es/en/habitaciones-rooms/",
+  "https://hotelmardelplata.es/en/normativa-mascotas/",
+  "https://hotelmardelplata.es/en/politica-de-cookies/",
+  "https://hotelmardelplata.es/en/politica-de-privacidad-hotel-mar-del-plata-coruna/",
+  "https://hotelmardelplata.es/en/trabaja-con-nosotros/",
+  "https://hotelmardelplata.es/english-privacy-policy/",
+  "https://hotelmardelplata.es/politica-de-cookies/",
+  "https://hotelmardelplata.es/politica-de-privacidad-hotel-mar-del-plata-coruna/",
+  "https://hotelmardelplata.es/trabaja-con-nosotros/"
+ ]
+}
